@@ -3,7 +3,7 @@
 ## Testing
 
 Run and Output:
-![TestOutput](gambar2/Test.png)
+![TestOutput](gambar2/testoutput.png)
 
 Since there are no errors, that means that the testing function works and the function used is successful.
 
